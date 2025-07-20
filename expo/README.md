@@ -23,4 +23,5 @@ npm i --save-dev eslint eslint-config-expo eslint-plugin-prettier prettier
   "format": "prettier --write . --ignore-path .gitignore"
 }
 ```
+
 ## **🎉 That's it — enjoy!**
