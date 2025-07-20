@@ -1,0 +1,24 @@
+# git
+.git
+
+# dependencies
+node_modules
+
+# Expo
+.expo
+dist
+web-build
+
+# macOS
+.DS_Store
+*.pem
+
+# env files
+.env*
+
+# typescript
+*.tsbuildinfo
+
+# builds
+android
+ios

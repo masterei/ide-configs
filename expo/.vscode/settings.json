@@ -1,0 +1,27 @@
+{
+  // Save behavior
+  "files.autoSave": "afterDelay",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+
+  // Editor
+  "editor.fontLigatures": true,
+  "editor.linkedEditing": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.eslint": "explicit"
+  },
+
+  // TypeScript & JavaScript
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.includePackageJsonAutoImports": "auto",
+  "typescript.preferences.importModuleSpecifierEnding": "auto",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.importModuleSpecifierEnding": "auto",
+
+  // ESLint & Prettier
+  "eslint.validate": ["javascript", "javascriptreact", "typescript", "typescriptreact"]
+}
