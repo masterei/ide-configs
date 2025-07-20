@@ -24,4 +24,4 @@ npm i --save-dev eslint eslint-config-expo eslint-plugin-prettier prettier
 }
 ```
 
-## **🎉 That's it — enjoy!**
+### **🎉 That's it — enjoy!**
