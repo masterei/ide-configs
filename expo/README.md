@@ -19,7 +19,6 @@ npm i --save-dev eslint eslint-config-expo eslint-plugin-prettier prettier
 
 ```jsonc
 "scripts": {
-  ...,
   "lint": "eslint . --config eslint.config.cjs",
   "format": "prettier --write . --ignore-path .gitignore"
 }
